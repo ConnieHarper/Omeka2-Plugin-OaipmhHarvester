@@ -183,7 +183,7 @@ class OaipmhHarvester_IndexController extends Omeka_Controller_AbstractActionCon
             $errorMsg = $e->getMessage();
             $this->redirect->goto('index');
         }
-error_log("Indexcontroller.php oaipmh".print_r($oaipmh,true),0);
+
         $records = $oaipmh['records'];
 
 
