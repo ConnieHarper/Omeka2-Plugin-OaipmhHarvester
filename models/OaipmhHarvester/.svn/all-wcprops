@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4314/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester
+END
+Job.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4314/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester/Job.php
+END
+Harvest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4424/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester/Harvest.php
+END
+DeleteJob.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4314/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester/DeleteJob.php
+END
+Record.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4314/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester/Record.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4428/cfmi/omeka2/trunk/plugins/OaipmhHarvester/models/OaipmhHarvester/Request.php
+END
